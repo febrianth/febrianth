@@ -9,8 +9,8 @@
 - <a target="_blank" href="https://febrianhardiyanto.blogspot.com/"><img align="left" alt="Blogspot" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/180px-Blogger.svg.png" /></a> https://febrianhardiyanto.blogspot.com/
 ---
 
-Hello everyone. My name is Febrian and i'm a Junior Programmer.
-I like to share my work in here
+Hello everyone. My name is Febrian and i'm a Junior Programmer. <br>
+I like to share my work in here. <br>
 Hope can be better one day. Aamiin.
 
 ---
