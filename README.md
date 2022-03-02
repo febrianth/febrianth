@@ -1,4 +1,4 @@
-### Welcome to my profile :trollface:
+### Welcome to my profile :raised_hand_with_fingers_splayed:
 
 ---
 
